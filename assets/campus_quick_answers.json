@@ -1,0 +1,500 @@
+[
+  {
+    "patterns": [
+      "library hour", "library hours", "library open", "library time",
+      "when does the library", "when is the library", "what time is the library",
+      "is the library open", "library closing", "library opening"
+    ],
+    "reply": "The library's got pretty good hours! On weekdays it's open from 8 AM all the way to 10 PM, and on Saturdays from 8 AM to 4 PM. During exam season they extend weekday hours to midnight, which is super helpful. Just note it's closed on public holidays.",
+    "location": "GIMPA Library"
+  },
+  {
+    "patterns": [
+      "where is the library", "library location", "find the library", "locate the library",
+      "how do i get to the library"
+    ],
+    "reply": "The main library (Lending and Reference) is at the apex of the Greenhill campus, opposite CBG bank, across the car park. There's also a Law Library on the top floor of the Law Faculty building if you need legal resources specifically.",
+    "location": "GIMPA Library"
+  },
+  {
+    "patterns": [
+      "library email", "contact library", "library phone", "turnitin"
+    ],
+    "reply": "You can reach the library at gimpalibrary@gimpa.edu.gh for general questions. If it's specifically about Turnitin, use info_library@gimpa.edu.gh instead. Their phone is +233-(0) 501620138.",
+    "location": "GIMPA Library"
+  },
+  {
+    "patterns": [
+      "security number", "security contact", "campus security", "emergency number",
+      "emergency contact", "who do i call", "emergency"
+    ],
+    "reply": "Here are the key numbers to have saved:\n\nSecurity (24/7): 030-274-6882\nCampus Clinic: 030-274-6001\nStudent Support: 030-274-6830\nMain Switchboard: 030-274-6000\n\nSecurity is available around the clock, so don't hesitate to call if you need help.",
+    "location": null
+  },
+  {
+    "patterns": [
+      "where is the clinic", "medical centre", "health centre", "campus clinic", "hospital",
+      "sick", "doctor on campus", "medical help"
+    ],
+    "reply": "The Campus Clinic is on the main GIMPA Greenhill campus. If you need urgent care or first aid, call them at 030-274-6001. They're your first stop for any health issues on campus.",
+    "location": "Campus Clinic"
+  },
+  {
+    "patterns": ["wifi", "wi-fi", "internet", "network password", "connect to wifi", "no internet"],
+    "reply": "GIMPA has Wi-Fi across campus — just use your student credentials to connect. If you're having trouble with the password or connection, swing by the IT office in the School of Technology building on any weekday between 8 AM and 5 PM.",
+    "location": "School of Technology"
+  },
+  {
+    "patterns": [
+      "how to apply", "application fee", "entry requirement",
+      "admission requirement", "how do i apply", "apply to gimpa",
+      "where do i get application", "application form"
+    ],
+    "reply": "To apply to GIMPA, head to www.gimpa.edu.gh/admissions and go through the admissions portal. Application fees are GHc 200 for Bachelor's/Diploma, GHc 250 for Master's, GHc 360 for LLM, and GHc 450 for PhD. Requirements vary by programme, so it's worth checking the specific page for what you're interested in. You can also call the admissions office on +233-(0) 501620138 if you have questions.",
+    "location": null
+  },
+  {
+    "patterns": ["september intake", "2026 intake", "current intake", "admission open", "admission in progress"],
+    "reply": "Yes! The September 2026 intake is currently open. You can apply at www.gimpa.edu.gh/admissions. Don't wait too long — these spots fill up. Call +233-(0) 501620138 if you need help with the process.",
+    "location": null
+  },
+  {
+    "patterns": ["main gate", "entrance", "how to enter", "campus entrance", "gimpa junction"],
+    "reply": "The main entrance is GIMPA Junction (Main Gate), right off the Legon Bypass. That's the one most people use.",
+    "location": "GIMPA Junction (Entrance)"
+  },
+  {
+    "patterns": ["cafeteria", "food", "dining", "where to eat", "canteen", "greenhill cafeteria"],
+    "reply": "Greenhill Cafeteria is the main spot to grab food on campus. It's a popular hangout between classes!",
+    "location": "Greenhill Cafeteria"
+  },
+  {
+    "patterns": ["semester", "academic calendar", "when does semester", "registration open", "semester dates"],
+    "reply": "The academic year runs in two semesters — First Semester from September to January, and Second Semester from February to June. Exams are usually in December/January and May/June. Registration typically opens about 4 weeks before each semester starts. The full 2025-2026 academic calendar is on the GIMPA website.",
+    "location": null
+  },
+  {
+    "patterns": [
+      "campus rule", "campus rules", "school rule", "school rules", "code of conduct",
+      "student conduct", "guidelines", "misconduct", "discipline", "academic integrity",
+      "plagiarism"
+    ],
+    "reply": "The big ones to know: academic integrity is taken seriously here — plagiarism or cheating can get you a course failure, suspension, or even dismissal. If there's ever a disciplinary issue, there's a proper process with a hearing and the right to appeal. Also, orientation is compulsory for fresh students. The full Student Handbook and Plagiarism Policy are on gimpa.edu.gh/policies.",
+    "location": null
+  },
+  {
+    "patterns": ["what is gimpa", "about gimpa", "gimpa history", "when was gimpa founded", "gimpa established"],
+    "reply": "GIMPA — the Ghana Institute of Management and Public Administration — was founded in 1961 as a joint Ghana Government and UN project. It started as the Institute of Public Administration to train civil servants, and has grown into one of West Africa's leading management and public administration universities. It's been around for 65 years now (GIMPA@65!) and has over 6,000 students across four campuses.",
+    "location": null
+  },
+  {
+    "patterns": ["how many campuses", "gimpa campuses", "other campuses", "kumasi campus", "takoradi campus", "tema campus"],
+    "reply": "GIMPA has four campuses: the main Greenhill Campus in Accra (off the Legon Bypass), plus campuses in Kumasi, Takoradi, and Tema. Most undergraduate programmes are based at the Greenhill Campus.",
+    "location": null
+  },
+  {
+    "patterns": ["gimpa contact", "gimpa phone", "gimpa email", "contact gimpa", "gimpa number", "call gimpa"],
+    "reply": "You can reach GIMPA on these numbers: +233-(0) 501620138, +233-(0) 332095432, +233-(0) 302908076, or +233-(0) 302-404664. For email, it's info@gimpa.edu.gh. The website is www.gimpa.edu.gh.",
+    "location": null
+  },
+  {
+    "patterns": ["student portal", "mis web", "ienabler", "check results", "student login", "portal login"],
+    "reply": "The student portal (MIS Web) is at ienabler.gimpa.edu.gh — that's where you check your results, register for courses, and manage your academic records. Use your student credentials to log in.",
+    "location": null
+  },
+  {
+    "patterns": ["lms", "learning management", "course materials", "online learning", "moodle", "lms.gimpa"],
+    "reply": "GIMPA's Learning Management System (LMS) is at lms.gimpa.edu.gh. That's where you'll find your course materials, assignments, and online learning resources. Log in with your student credentials.",
+    "location": null
+  },
+  {
+    "patterns": ["student email", "gimpa email", "school email", "my email", "email account"],
+    "reply": "Your GIMPA student email is a Google account — you access it through accounts.google.com using your GIMPA-issued email address. If you haven't set it up yet, check with the IT office in the School of Technology building.",
+    "location": "School of Technology"
+  },
+  {
+    "patterns": ["exam schedule", "lecture schedule", "timetable online", "class schedule online"],
+    "reply": "The official lecture and exam schedule is available at max-ease-manager.vercel.app. You can also check your personal timetable right here in the Uni-Assist app!",
+    "location": null
+  },
+  {
+    "patterns": ["counselling", "counseling", "mental health", "stressed", "anxiety", "emotional support", "psychologist", "therapist"],
+    "reply": "GIMPA has a Counselling Unit (GCU) that offers free, confidential support — individual counselling, career guidance, group sessions, and more. To book an appointment, go to scheduler.gimpa.edu.gh/ea or email gcu@gimpa.edu.gh. Both in-person and virtual sessions are available. Don't hesitate to reach out — it's completely confidential.",
+    "location": null
+  },
+  {
+    "patterns": ["internship", "attachment", "industrial attachment", "work experience", "placement"],
+    "reply": "The Office of the Dean of Students (ODS) coordinates internship and industrial attachment opportunities. They also run pre-internship preparation workshops and CV clinics to help you get ready. Reach out to the Student Affairs office to find out what's currently available.",
+    "location": null
+  },
+  {
+    "patterns": ["cv", "resume", "cv clinic", "resume writing", "job application"],
+    "reply": "The Office of the Dean of Students runs CV Clinic and Resume Writing Workshops to help you put together a strong application. It's a free service for GIMPA students — check with the Student Affairs office for the next session.",
+    "location": null
+  },
+  {
+    "patterns": ["student association", "student club", "src", "student representative", "join a club", "student organisation"],
+    "reply": "There are several active student associations at GIMPA: the Student Representative Council (SRC), GIMPA Christian Fellowship, Law Students Association, Public Students Association, and GIBSAN (GIMPA Business School Association Network). Joining one is a great way to build your network and develop leadership skills. Ask around on campus or check with the Dean of Students office.",
+    "location": null
+  },
+  {
+    "patterns": ["sports", "football", "hockey", "gym", "sports unit", "athletics", "exercise"],
+    "reply": "GIMPA has a Sports Unit established in 2021 that manages all sports activities for students, staff, and the wider community. They have active teams including the GIMPA Hockey Queens. For info on joining a team or sports activities, check with the Sports Coordinator through the Dean of Students office.",
+    "location": null
+  },
+  {
+    "patterns": ["graduation", "congregation", "when is graduation", "graduate", "convocation"],
+    "reply": "GIMPA's graduation ceremony is called the Congregation. It's held annually and is a big deal — a proper celebration of everyone's hard work. To qualify, you need to have passed all your required courses, met your CGPA requirements, completed any thesis or project, and cleared all financial obligations. You'll need to apply to graduate even if you're not attending the ceremony in person.",
+    "location": null
+  },
+  {
+    "patterns": ["scholarship", "financial aid", "bursary", "sltf", "student loan", "funding"],
+    "reply": "For student loans, the Student Loan Trust Fund (SLTF) is the main option for Ghanaian students — apply through sltf.gov.gh. GIMPA also has an Endowment Fund that supports scholarships for brilliant but needy students. For more info on available financial support, check with the Registry or Student Affairs office.",
+    "location": null
+  },
+  {
+    "patterns": ["endowment", "gimpa endowment", "donate to gimpa", "support gimpa"],
+    "reply": "The GIMPA Endowment was set up in 2022 to raise funds for scholarships, research, infrastructure, and professorships. GIMPA runs without government funding, so the endowment is really important. If you want to donate, you can do so through CBG (Account: 0148340100010) or Ecobank (Account: 1441002555073), both under 'GIMPA Endowment'. More info at gimpa.edu.gh/gimpa-endowment.",
+    "location": null
+  },
+  {
+    "patterns": ["mba", "master of business", "executive mba", "emba"],
+    "reply": "GIMPA Business School offers an MBA (general management) and an Executive MBA (EMBA) for experienced professionals. The MBA requires a Bachelor's degree with at least Second Class Lower. The EMBA is designed for executives with significant work experience. Both are highly regarded programmes. For current fees and intake dates, check gimpa.edu.gh/admissions.",
+    "location": "Business School"
+  },
+  {
+    "patterns": ["llb", "law degree", "study law", "faculty of law", "law school"],
+    "reply": "GIMPA's Faculty of Law offers the LLB (Bachelor of Laws) undergraduate programme, as well as the LLM (Master of Laws) and a Post-First Degree LLB. The Law Library is on the top floor of the Law Faculty building. For admission requirements and fees, check gimpa.edu.gh/admissions.",
+    "location": "Faculty of Law"
+  },
+  {
+    "patterns": ["phd", "doctorate", "doctoral programme", "doctor of philosophy", "research degree"],
+    "reply": "GIMPA offers PhD programmes across all its schools, as well as the Doctor of Management (DMGT) — an executive-focused doctorate for senior managers. PhD admission requires a Master's degree, strong academic record, a research proposal, and an interview. Application fee is GHc 450. The DMGT admissions are currently open — check gimpa.edu.gh for details.",
+    "location": null
+  },
+  {
+    "patterns": ["dmgt", "doctor of management", "executive doctorate"],
+    "reply": "The Doctor of Management (DMGT) is GIMPA Business School's executive doctoral programme — it's designed for senior managers who want to do applied management research at the highest level. You need a Master's degree plus at least 5 years of senior management experience. Admissions are currently open! Check gimpa.edu.gh for details.",
+    "location": "Business School"
+  },
+  {
+    "patterns": ["it programme", "computer science", "information technology", "school of technology", "bsc it", "bsc cs"],
+    "reply": "The School of Technology offers BSc Information Technology and BSc Computer Science at undergraduate level, plus MSc programmes in IT, Digital Forensics & Cybersecurity, and ICT, IT & Law at postgraduate level. Strong maths background is important for these programmes.",
+    "location": "School of Technology"
+  },
+  {
+    "patterns": ["public administration", "mpa", "governance", "public service", "school of public service"],
+    "reply": "The School of Public Service and Governance offers BA Public Administration at undergraduate level, and MPA (Master of Public Administration), Master of Governance and Leadership, and Masters in International Relations and Diplomacy at postgraduate level. Great programmes if you're interested in government, policy, or public sector careers.",
+    "location": null
+  },
+  {
+    "patterns": ["international student", "foreign student", "study in ghana", "international programme", "oipd"],
+    "reply": "GIMPA welcomes international students! There's an Office of International Programmes and Development (OIPD) at oipd.gimpa.edu.gh that handles international admissions and exchange programmes. GIMPA also has partnerships with universities abroad — for example, GIMPA Law students can earn a UConn (University of Connecticut) LLM degree through a Ghana-US partnership.",
+    "location": null
+  },
+  {
+    "patterns": ["transfer", "credit transfer", "transfer from another school", "transfer student"],
+    "reply": "GIMPA may accept credit transfers from accredited institutions on a case-by-case basis. You'd need to provide detailed transcripts and course descriptions from your previous institution. The maximum transferable credits are usually limited to ensure you spend enough time at GIMPA. Contact the Registry at 030-274-6000 to discuss your specific situation.",
+    "location": null
+  },
+  {
+    "patterns": ["mature student", "mature applicant", "25 years", "older student", "mature entry"],
+    "reply": "GIMPA has a mature student admission route for applicants who are at least 25 years old, have completed SHS/SSS or equivalent, can provide proof of age, and pass the GIMPA Mature Programme entrance examination. It's a great option if you didn't go the traditional route straight from secondary school.",
+    "location": null
+  },
+  {
+    "patterns": ["part time", "evening class", "weekend class", "part-time study", "working student"],
+    "reply": "Yes, GIMPA offers part-time study options, especially for postgraduate programmes. Evening classes are typically 6 PM to 9 PM on weekdays, and there are weekend sessions for executive programmes. It's designed to work around your job, so it's popular with working professionals.",
+    "location": null
+  },
+  {
+    "patterns": ["short course", "certificate course", "professional training", "executive training", "gtc"],
+    "reply": "GIMPA's Training & Consulting arm (GTC) offers short courses and certificate programmes in areas like Leadership, Strategic Management, HR, Project Management, and more. These are great for professional development without committing to a full degree. Check gtc.gimpa.edu.gh for what's currently on offer.",
+    "location": null
+  },
+  {
+    "patterns": ["hostel", "accommodation", "where to stay", "student housing", "hawa yakubu"],
+    "reply": "Hawa Yakubu Hostel is the student accommodation on campus. For availability and how to apply for a room, check with the Student Affairs office. Many students also find accommodation in the surrounding Achimota and Legon areas.",
+    "location": "Hawa Yakubu Hostel"
+  },
+  {
+    "patterns": ["orientation", "fresh student", "new student", "orientation week", "freshers"],
+    "reply": "Orientation is compulsory for all fresh students at GIMPA — you can't skip it. It typically happens at the start of the first semester in September. Missing orientation without a valid reason could affect your admission status, so make sure you're there!",
+    "location": null
+  },
+  {
+    "patterns": ["complaint", "student complaint", "report an issue", "grievance", "problem with lecturer"],
+    "reply": "If you have a complaint or issue, the Office of the Dean of Students handles student complaints and can mediate academic challenges with the relevant schools. You can also go directly to the Registry. For sexual misconduct specifically, there's a formal Sexual Misconduct Policy — see gimpa.edu.gh/policies.",
+    "location": null
+  },
+  {
+    "patterns": ["newsletter", "greenhill newsletter", "gimpa news", "latest news", "events"],
+    "reply": "GIMPA publishes the Greenhill Newsletter with campus news, student achievements, and upcoming events. The latest issue is on gimpa.edu.gh/news-events. You can also follow GIMPA on Facebook (GIMPAGreenhill), Instagram (@gimpa_greenhill), and Twitter (@GIMPA_Greenhill) to stay updated.",
+    "location": null
+  },
+  {
+    "patterns": ["social media", "facebook", "instagram", "twitter", "youtube", "follow gimpa"],
+    "reply": "You can follow GIMPA on: Facebook (GIMPAGreenhill), Instagram (@gimpa_greenhill), Twitter (@GIMPA_Greenhill), LinkedIn, and YouTube (@gimpa_greenhill). Good way to stay in the loop on events and news!",
+    "location": null
+  },
+  {
+    "patterns": ["hackathon", "coding competition", "tech event", "innovation"],
+    "reply": "GIMPA runs an annual Hackathon — a coding and innovation competition where students build and compete to create groundbreaking solutions. It's a great event if you're into tech. Keep an eye on the GIMPA social media pages and notice boards for the next one.",
+    "location": "School of Technology"
+  },
+  {
+    "patterns": ["akwaaba", "welcome party", "freshers party", "artiste night"],
+    "reply": "Akwaaba Artiste Night is GIMPA's big welcome event for new students — live performances, music, and a great way to meet people. It's usually held at the start of the academic year. Definitely one to look forward to!",
+    "location": null
+  },
+  {
+    "patterns": ["ghana month", "march events", "cultural events", "ghana heritage"],
+    "reply": "Every March, GIMPA celebrates Ghana Month with events, performances, and exhibitions honouring Ghana's culture and history. It's a really vibrant time on campus!",
+    "location": null
+  },
+  {
+    "patterns": ["gimpa accredited", "is gimpa accredited", "national accreditation", "nab"],
+    "reply": "Yes, GIMPA is fully accredited by the National Accreditation Board (NAB) of Ghana. It's also an independent public tertiary institution established by an Act of Parliament (GIMPA Act, 2004 — Act 676), so your degree is fully recognised.",
+    "location": null
+  },
+  {
+    "patterns": ["how many students", "student population", "gimpa size", "enrollment"],
+    "reply": "GIMPA has over 6,000 students enrolled across its four campuses (Accra, Kumasi, Takoradi, and Tema) for both undergraduate and graduate studies.",
+    "location": null
+  },
+  {
+    "patterns": ["gimpa shop", "buy merchandise", "gimpa store", "shop online"],
+    "reply": "GIMPA has an online shop at gimpa.edu.gh/shop where you can buy official merchandise. Worth checking out if you want to rep the school!",
+    "location": null
+  },
+  {
+    "patterns": ["administration block", "where is admin", "registry", "rector office", "admin office"],
+    "reply": "The Main Administration Block is the central hub for administrative offices, including the Rector's office and the Registry. It's one of the main buildings on the Greenhill campus.",
+    "location": "Main Administration Block"
+  },
+  {
+    "patterns": ["conference centre", "ecc", "executive conference", "event venue", "seminar venue"],
+    "reply": "The Executive Conference Centre (ECC) is where GIMPA hosts conferences, seminars, and major events. It's one of the landmark buildings on the Greenhill campus.",
+    "location": "Executive Conference Centre"
+  },
+  {
+    "patterns": ["business school building", "where is business school", "gimpa business school location"],
+    "reply": "The GIMPA Business School building is on the main Greenhill campus. It houses the Business School lectures and offices.",
+    "location": "Business School"
+  },
+  {
+    "patterns": ["graduate lecture block", "graduate block", "postgraduate building"],
+    "reply": "The Graduate Lecture Block is on the Greenhill campus and is used for postgraduate lectures and classes.",
+    "location": "Graduate Lecture Block"
+  },
+  {
+    "patterns": ["where is my class", "where is my course", "classroom location", "find my classroom", "where is my [course] class"],
+    "reply": "I can help you find your classroom! Tell me your course code (like SOT702B) or course name (like IS RESEARCH METHODS), and I'll tell you the room location. Building codes: LS = Lecture Hall, GB = Graduate Block, E = Education Block.",
+    "location": null
+  },
+  {
+    "patterns": ["where is sot702b", "sot702b location", "is research methods location", "where is is research methods"],
+    "reply": "IS RESEARCH METHODS (SOT702B) is held in LS 104 (Lecture Hall 104) on the Greenhill campus.",
+    "location": "LS 104"
+  },
+  {
+    "patterns": ["where is sot704b", "sot704b location", "networks and telecommunications location", "where is networks and telecommunications"],
+    "reply": "NETWORKS AND TELECOMMUNICATIONS (SOT704B) is held in LS 104 (Lecture Hall 104) on the Greenhill campus.",
+    "location": "LS 104"
+  },
+  {
+    "patterns": ["where is sot711b", "sot711b location", "data warehousing location", "where is data warehousing"],
+    "reply": "DATA WAREHOUSING (SOT711B) is held in LS 111 (Lecture Hall 111) on the Greenhill campus.",
+    "location": "LS 111"
+  },
+  {
+    "patterns": ["where is sot713b", "sot713b location", "e-business location", "where is e-business"],
+    "reply": "E-BUSINESS (SOT713B) is held in LS 111 (Lecture Hall 111) on the Greenhill campus. Some sessions may be in L2 GF2.",
+    "location": "LS 111"
+  },
+  {
+    "patterns": ["where is sot714b", "sot714b location", "business intelligence and data mining location", "where is business intelligence"],
+    "reply": "BUSINESS INTELLIGENCE AND DATA MINING (SOT714B) is held in LS 111 (Lecture Hall 111) on the Greenhill campus.",
+    "location": "LS 111"
+  },
+  {
+    "patterns": ["where is sot707b", "sot707b location", "database and programming concepts location", "where is database and programming"],
+    "reply": "DATABASE AND PROGRAMMING CONCEPTS (SOT707B) is held in LS 111 (Lecture Hall 111) on the Greenhill campus.",
+    "location": "LS 111"
+  },
+  {
+    "patterns": ["where is itl706", "itl706 location", "intelligent systems location", "where is intelligent systems"],
+    "reply": "Intelligent Systems for Legal and Administrative Applications (ITL706) is held in GB 210 (Graduate Block, Room 210) on the Greenhill campus.",
+    "location": "GB 210"
+  },
+  {
+    "patterns": ["where is bus407b", "bus407b location", "taxation location", "where is taxation"],
+    "reply": "TAXATION AND TAX ADMINISTRATION (BUS407B) is held in E 104 (Education Block, Room 104) on the Greenhill campus.",
+    "location": "E 104"
+  },
+  {
+    "patterns": ["where is spg406b", "spg406b location", "current issues in public sector location", "where is current issues"],
+    "reply": "CURRENT ISSUES IN PUBLIC SECTOR MGT (SPG406B) is held in E 104 (Education Block, Room 104) on the Greenhill campus.",
+    "location": "E 104"
+  },
+  {
+    "patterns": ["where is spg405b", "spg405b location", "strategic management location", "where is strategic management"],
+    "reply": "STRATEGIC MANAGEMENT (SPG405B) is held in LS 104 (Lecture Hall 104) on the Greenhill campus.",
+    "location": "LS 104"
+  },
+  {
+    "patterns": ["where is las202b", "las202b location", "communication ii location", "where is communication ii"],
+    "reply": "COMMUNICATION II (LAS202B) is held in E 104 (Education Block, Room 104) on the Greenhill campus.",
+    "location": "E 104"
+  },
+  {
+    "patterns": ["where is spg304b", "spg304b location", "wages and salaries location", "where is wages and salaries"],
+    "reply": "WAGES AND SALARIES ADMIN. (SPG304B) is held in E 101 (Education Block, Room 101) on the Greenhill campus.",
+    "location": "E 101"
+  },
+  {
+    "patterns": ["where is spg306b", "spg306b location", "public finance location", "where is public finance"],
+    "reply": "PUBLIC FINANCE (SPG306B) is held in E 101 (Education Block, Room 101) on the Greenhill campus.",
+    "location": "E 101"
+  },
+  {
+    "patterns": ["where is spg307b", "spg307b location", "research methods i location", "where is research methods i"],
+    "reply": "RESEARCH METHODS I (SPG307B) is held in E 101 (Education Block, Room 101) on the Greenhill campus.",
+    "location": "E 101"
+  },
+  {
+    "patterns": ["where is spg303b", "spg303b location", "administrative and office management location", "where is administrative management"],
+    "reply": "ADMINISTRATIVE AND OFFICE MANAGEMENT (SPG303B) is held in E 101 (Education Block, Room 101) on the Greenhill campus.",
+    "location": "E 101"
+  },
+  {
+    "patterns": ["where is spg305b", "spg305b location", "leadership ethics location", "where is leadership ethics"],
+    "reply": "LEADERSHIP ETHICS AND SOCIAL RESP. (SPG305B) is held in E 101 (Education Block, Room 101) on the Greenhill campus.",
+    "location": "E 101"
+  },
+  {
+    "patterns": ["where is ls 104", "ls 104 location", "lecture hall 104", "what is ls 104"],
+    "reply": "LS 104 is Lecture Hall 104 on the Greenhill campus. It hosts courses like IS RESEARCH METHODS (SOT702B), NETWORKS AND TELECOMMUNICATIONS (SOT704B), and STRATEGIC MANAGEMENT (SPG405B).",
+    "location": "LS 104"
+  },
+  {
+    "patterns": ["where is ls 111", "ls 111 location", "lecture hall 111", "what is ls 111"],
+    "reply": "LS 111 is Lecture Hall 111 on the Greenhill campus. It hosts courses like DATA WAREHOUSING (SOT711B), E-BUSINESS (SOT713B), BUSINESS INTELLIGENCE AND DATA MINING (SOT714B), and DATABASE AND PROGRAMMING CONCEPTS (SOT707B).",
+    "location": "LS 111"
+  },
+  {
+    "patterns": ["where is gb 210", "gb 210 location", "graduate block 210", "what is gb 210"],
+    "reply": "GB 210 is Room 210 in the Graduate Block on the Greenhill campus. It hosts Intelligent Systems for Legal and Administrative Applications (ITL706).",
+    "location": "GB 210"
+  },
+  {
+    "patterns": ["where is e 101", "e 101 location", "education block 101", "what is e 101"],
+    "reply": "E 101 is Room 101 in the Education Block on the Greenhill campus. It hosts courses like WAGES AND SALARIES ADMIN. (SPG304B), PUBLIC FINANCE (SPG306B), RESEARCH METHODS I (SPG307B), ADMINISTRATIVE AND OFFICE MANAGEMENT (SPG303B), and LEADERSHIP ETHICS AND SOCIAL RESP. (SPG305B).",
+    "location": "E 101"
+  },
+  {
+    "patterns": ["where is e 104", "e 104 location", "education block 104", "what is e 104"],
+    "reply": "E 104 is Room 104 in the Education Block on the Greenhill campus. It hosts courses like TAXATION AND TAX ADMINISTRATION (BUS407B), CURRENT ISSUES IN PUBLIC SECTOR MGT (SPG406B), and COMMUNICATION II (LAS202B).",
+    "location": "E 104"
+  },
+  {
+    "patterns": ["what does ls mean", "what does gb mean", "what does e mean", "building code meaning", "room code meaning"],
+    "reply": "Building codes: LS = Lecture Hall/Block, GB = Graduate Block, E = Education Block, L2 = Level 2. All these buildings are on the Greenhill campus.",
+    "location": null
+  },
+  {
+    "patterns": ["where is l2 gf2", "l2 gf2 location", "level 2 gf2", "what is l2 gf2"],
+    "reply": "L2 GF2 means Level 2, Ground Floor Room 2. It's used for some sessions of E-BUSINESS (SOT713B).",
+    "location": "L2 GF2"
+  },
+  {
+    "patterns": ["tba location", "what is tba", "to be announced classroom"],
+    "reply": "TBA means To Be Announced — the room assignment hasn't been finalized yet. Check the official lecture schedule at max-ease-manager.vercel.app or contact your department for updates.",
+    "location": null
+  },
+  {
+    "patterns": ["where is spg204b", "spg204b location", "political and legal settings location", "where is political and legal settings"],
+    "reply": "POLITICAL AND LEGAL SETTINGS (SPG204B) is held in E 107 (Education Block, Room 107) on Tuesdays from 1pm-4pm and Wednesdays from 5pm-8pm.",
+    "location": "E 107"
+  },
+  {
+    "patterns": ["where is sot320b", "sot320b location", "management information systems location", "where is management information systems"],
+    "reply": "MANAGEMENT INFORMATION SYSTEMS (SOT320B) is held in E 107 (Education Block, Room 107) on Wednesdays from 9am-12pm and in E 202 (Education Block, Room 202) on Fridays from 5pm-8pm.",
+    "location": "E 107"
+  },
+  {
+    "patterns": ["where is bus208b", "bus208b location", "statistics location", "where is statistics"],
+    "reply": "STATISTICS (BUS208B) is held in E 202 (Education Block, Room 202) on Tuesdays from 5pm-8pm.",
+    "location": "E 202"
+  },
+  {
+    "patterns": ["where is spg205b", "spg205b location", "development of public administration location", "where is development of public administration"],
+    "reply": "DEVELOPMENT OF PUBLIC ADMINISTRATION (SPG205B) is held in E 202 (Education Block, Room 202) on Thursdays from 5pm-8pm.",
+    "location": "E 202"
+  },
+  {
+    "patterns": ["where is las100b", "las100b location", "african studies location", "where is african studies"],
+    "reply": "AFRICAN STUDIES (LAS100B) is held in E 202 (Education Block, Room 202) on Mondays from 5pm-8pm.",
+    "location": "E 202"
+  },
+  {
+    "patterns": ["where is e 107", "e 107 location", "education block 107", "what is e 107"],
+    "reply": "E 107 is Room 107 in the Education Block on the Greenhill campus. It hosts courses like POLITICAL AND LEGAL SETTINGS (SPG204B) and MANAGEMENT INFORMATION SYSTEMS (SOT320B).",
+    "location": "E 107"
+  },
+  {
+    "patterns": ["where is e 202", "e 202 location", "education block 202", "what is e 202"],
+    "reply": "E 202 is Room 202 in the Education Block on the Greenhill campus. It hosts courses like STATISTICS (BUS208B), DEVELOPMENT OF PUBLIC ADMINISTRATION (SPG205B), AFRICAN STUDIES (LAS100B), POLITICAL AND LEGAL SETTINGS (SPG204B), and MANAGEMENT INFORMATION SYSTEMS (SOT320B).",
+    "location": "E 202"
+  },
+  {
+    "patterns": ["where is sot210b", "sot210b location", "where is sot015b", "sot015b location", "electronic circuits location", "digital electronics location", "where is electronic circuits"],
+    "reply": "ELECTRONIC CIRCUITS/DIGITAL ELECTRONICS (SOT210B/SOT015B) is held in GB 303 (Graduate Block, Room 303) on Thursdays from 9am-12noon.",
+    "location": "GB 303"
+  },
+  {
+    "patterns": ["where is sot616b", "sot616b location", "database systems location", "where is database systems"],
+    "reply": "DATABASE SYSTEMS (SOT616B) is held in Consultancy 1 (CS 101) on Saturdays from 8:30am-11:30am.",
+    "location": "Consultancy 1 (CS 101)"
+  },
+  {
+    "patterns": ["where is sot600b", "sot600b location", "project location", "where is project"],
+    "reply": "Project (SOT600B) is not scheduled and the location is TBA.",
+    "location": null
+  },
+  {
+    "patterns": ["where is las202b", "las202b location", "communication skills ii location", "where is communication skills ii"],
+    "reply": "COMMUNICATION SKILLS II (LAS202B) is held in Consultancy 1 (CS 201) on Thursdays from 5pm-8pm.",
+    "location": "Consultancy 1 (CS 201)"
+  },
+  {
+    "patterns": ["where is csc201b", "csc201b location", "where is ict201b", "ict201b location", "where is sot004b", "sot004b location", "database design i location", "where is database design i"],
+    "reply": "DATABASE DESIGN I / DATABASE SYSTEMS / Principles of Database Systems (CSC201B/ICT201B/SOT004B) is held in PSMTP Auditorium on Tuesdays from 5pm-8pm.",
+    "location": "PSMTP Auditorium"
+  },
+  {
+    "patterns": ["where is sot204b", "sot204b location", "where is sot006b", "sot006b location", "probability and statistics location", "where is probability and statistics"],
+    "reply": "PROBABILITY AND STATISTICS / INTRODUCTION TO PROBABILITY (SOT204B/SOT006B) is held in GB 303 (Graduate Block, Room 303) on Wednesdays from 5pm-8pm.",
+    "location": "GB 303"
+  },
+  {
+    "patterns": ["where is gb 303", "gb 303 location", "graduate block 303", "what is gb 303"],
+    "reply": "GB 303 is Room 303 in the Graduate Block on the Greenhill campus. It hosts courses like ELECTRONIC CIRCUITS/DIGITAL ELECTRONICS (SOT210B/SOT015B) and PROBABILITY AND STATISTICS/INTRODUCTION TO PROBABILITY (SOT204B/SOT006B).",
+    "location": "GB 303"
+  },
+  {
+    "patterns": ["where is consultancy 1", "consultancy 1 location", "where is cs 101", "cs 101 location", "what is consultancy 1"],
+    "reply": "Consultancy 1 (CS 101) is a classroom in the Consultancy Block on the Greenhill campus. It hosts DATABASE SYSTEMS (SOT616B) on Saturdays.",
+    "location": "Consultancy 1 (CS 101)"
+  },
+  {
+    "patterns": ["where is cs 201", "cs 201 location", "consultancy 1 cs 201"],
+    "reply": "Consultancy 1 (CS 201) is a classroom in the Consultancy Block on the Greenhill campus. It hosts COMMUNICATION SKILLS II (LAS202B) on Thursdays.",
+    "location": "Consultancy 1 (CS 201)"
+  },
+  {
+    "patterns": ["where is psmtp auditorium", "psmtp auditorium location", "what is psmtp auditorium"],
+    "reply": "PSMTP Auditorium is an auditorium on the Greenhill campus. It hosts DATABASE DESIGN I / DATABASE SYSTEMS / Principles of Database Systems (CSC201B/ICT201B/SOT004B) on Tuesdays.",
+    "location": "PSMTP Auditorium"
+  }
+]
